@@ -24,4 +24,4 @@ To run this project, you will need Python and the following Python libraries ins
 You can install these libraries using pip:
 
 ```bash
-pip install numpy pandas matplotlib seaborn lifetimes
+pip install datetime pandas matplotlib seaborn lifetimes
